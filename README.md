@@ -20,8 +20,8 @@ In this section I list data analytics projects briefly describing the technology
 **Results:** Review of the marketing campaign performance across various states.
 
 ### Player Performance and Market Value Analysis
-**Code:** [Player Performance] 
-**Description:** Exploring key metrics of football players, focusing on their performance, potential, and market values. 
+**Code:** [Player Performance]   
+**Description:** Exploring key metrics of football players, focusing on their performance, potential, and market values.   
 **Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
 **Results:** The results show that players with higher ratings have greater potential, market values peak between ages 22-33, and attackers command higher market values than defenders and goalkeepers..
