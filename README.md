@@ -10,7 +10,7 @@ This repository serves as a platform to showcase my skills, share my data analys
 
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Marketing Data Analysis
 **Code:** [Marketing Data Analysis](https://github.com/umidmirzaev/data_analysis_portfolio/blob/main/Marketing%20Data%20Analysis.ipynb)
