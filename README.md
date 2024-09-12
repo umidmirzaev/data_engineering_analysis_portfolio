@@ -13,8 +13,12 @@ This repository serves as a platform to showcase my skills, share my data analys
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Marketing Data Analysis
-**Code:** 
+**Code:**
+
 **Description:** The main dataset contains 19360 records. his dataset contains synthetic marketing data that simulates campaign performance across various states. The dataset records key metrics such as total touchpoints, state-specific responses (both web and phone), and conversion outcomes over a defined time period. Additional information on each campaign includes costs and identifiers, offering insights into marketing efforts and resource allocation.
+
 **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+
 **Technology:** Python, Pandas, Seaborn, Matplotlib.
+
 **Results:** Review of the marketing campaign performance across various states.
