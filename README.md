@@ -10,7 +10,8 @@ This repository serves as a platform to showcase my skills, share my data analys
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   + [Cohort Analysis](#Cohort-Analysis)
-	+ [RFM Analysis](#RFM-Analysis)
+  + [RFM Analysis](#RFM-Analysis)
+  + [Marketing Data Analysis](#Marketing-Data-Analysis)
 
 ## Portfolio Projects
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
