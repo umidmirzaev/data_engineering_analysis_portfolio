@@ -12,7 +12,7 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [Cohort Analysis](#Cohort-Analysis)
   + [RFM Analysis](#RFM-Analysis)
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
-  + [Email Marketing Campaign Analysis](#Email-Marketing-Campaign- Analysis)
+  + [Email Marketing Campaign Analysis](#Email-Marketing-Campaign-Analysis)
 
 ## Portfolio Projects
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
