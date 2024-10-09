@@ -43,3 +43,25 @@ In this section I list data engineering & analytics projects briefly describing 
 **Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 **Results:** The results show that players with higher ratings have greater potential, market values peak between ages 22-33, and attackers command higher market values than defenders and goalkeepers..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
