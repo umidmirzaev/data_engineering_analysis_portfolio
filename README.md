@@ -43,6 +43,8 @@ In this section I list data engineering & analytics projects briefly describing 
 **Skills:** Data cleaning, analysis, data visualization, performance tracking.  
 **Technology:** Power BI, DAX.
 **Results:** Analysis of user activity, email trends, and customer segments over time.  
+
+
 ![screen](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing.png)
 
 
