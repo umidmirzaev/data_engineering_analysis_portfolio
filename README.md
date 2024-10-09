@@ -25,7 +25,7 @@ In this section I list data engineering & analytics projects briefly describing 
 
 ### RFM Analysis
 **Code:** [RFM Analysis]  
-**Description:** This project applies RFM (Recency, Frequency, Monetary) analysis to segment and identify customer groups for a local retail company, exploring differences to inform marketing strategies.   
+**Description:** Applying RFM (Recency, Frequency, Monetary) analysis to segment and identify customer groups for a local retail company, exploring differences to drive data-informed marketing strategies.   
 **Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.   
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 **Results:** Segmented and identified customers into high-value (38%), growth-potential (40%), and at-risk (19%) groups. Recommendations include targeted rewards, promotions, and re-engagement strategies.  
