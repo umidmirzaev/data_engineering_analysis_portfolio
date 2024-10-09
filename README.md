@@ -6,8 +6,6 @@ I hold a Bachelor's degree in Petroleum Engineering and a Master's degree (M.S.)
 
 This repository serves as a platform to showcase my skills, share my data analysis projects, and track my progress in Data Analytics and Data Engineering-related topics.
 
-<br>
-
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
@@ -15,6 +13,7 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [RFM Analysis](#RFM-Analysis)
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
 
+<br>
 ## Portfolio Projects
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
 
