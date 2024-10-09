@@ -13,7 +13,7 @@ This repository serves as a platform to showcase my skills, share my data analys
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
 
 ### Cohort  Analysis
-**Code:** [Cohort Analysis]
+**Code:** [Cohort Analysis]  
 **Description:** This project analyzes transactional data from a homebrewing and craft brewing supply store using cohort analysis. The goal is to track and understand user behavior over time, identifying trends and patterns.
 **Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
