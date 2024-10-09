@@ -37,12 +37,12 @@ In this section I list data engineering & analytics projects briefly describing 
 **Technology:** Python, Pandas, Seaborn, Matplotlib.  
 **Results:** Review of the marketing campaign performance across various states.
 
-### Player Performance and Market Value Analysis
-**Code:** [Player Performance]   
-**Description:** Exploring key metrics of football players, focusing on their performance, potential, and market values.   
-**Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
-**Results:** The results show that players with higher ratings have greater potential, market values peak between ages 22-33, and attackers command higher market values than defenders and goalkeepers..
+### Email Marketing Campaign Analysis
+  
+**Description:** This project analyzes the performance of an email marketing campaign for a local business, focusing on delivery rates, open rates, click-through rates (CTR), and user engagement over time to optimize future email strategies.   
+**Skills:** Data cleaning, analysis, data visualization, performance tracking.  
+**Technology:** Power BI, DAX.
+**Results:** Analysis of user activity, email trends, and customer segments over time.  
 
 
 
