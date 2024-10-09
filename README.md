@@ -13,7 +13,6 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [RFM Analysis](#RFM-Analysis)
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
 
-<br>
 ## Portfolio Projects
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
 
