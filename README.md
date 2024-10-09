@@ -12,6 +12,14 @@ This repository serves as a platform to showcase my skills, share my data analys
 ## Portfolio Projects
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
 
+### Cohort  Analysis
+**Code:** [Cohort Analysis]
+**Description:** This project analyzes transactional data from a homebrewing and craft brewing supply store using cohort analysis. The goal is to track and understand user behavior over time, identifying trends and patterns.
+**Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
+**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
+**Results:** Cohort retention and revenue trends were found and analyzed.
+
+
 ### Marketing Data Analysis
 **Code:** [Marketing Data Analysis](https://github.com/umidmirzaev/data_analysis_portfolio/blob/main/Marketing%20Data%20Analysis.ipynb)  
 **Description:** The main dataset contains 19360 records related to synthetic marketing data that simulates campaign performance across various states. The dataset records key metrics such as total touchpoints, state-specific responses (both web and phone), and conversion outcomes over a defined time period. Additional information on each campaign includes costs and identifiers, offering insights into marketing efforts and resource allocation.  
