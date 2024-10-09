@@ -1,4 +1,4 @@
-# Umid Mirzaev - Data Analysis Portfolio
+# Umid Mirzaev - Data Engineering & Analysis Portfolio
 
 ## About
 Hi, I'm Umid!
