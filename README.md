@@ -46,8 +46,8 @@ In this section I list data engineering & analytics projects briefly describing 
 **Results:** Analysis of user activity, email trends, and customer segments over time.  
 
 
-![screen](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing.png)
-
+![screen1](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing.png)
+![screen2](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing_1.png)
 
 
 
