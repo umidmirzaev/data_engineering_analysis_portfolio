@@ -6,6 +6,8 @@ I hold a Bachelor's degree in Petroleum Engineering and a Master's degree (M.S.)
 
 This repository serves as a platform to showcase my skills, share my data analysis projects, and track my progress in Data Analytics and Data Engineering-related topics.
 
+<br>
+
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
