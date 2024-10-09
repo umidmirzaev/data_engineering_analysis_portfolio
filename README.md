@@ -42,7 +42,7 @@ In this section I list data engineering & analytics projects briefly describing 
   
 **Description:** This project analyzes the performance of an email marketing campaign for a local business, focusing on delivery rates, open rates, click-through rates (CTR), and user engagement over time to optimize future email strategies.   
 **Skills:** Data cleaning, analysis, data visualization, performance tracking.  
-**Technology:** Power BI, DAX.
+**Technology:** Power BI, DAX.  
 **Results:** Analysis of user activity, email trends, and customer segments over time.  
 
 
