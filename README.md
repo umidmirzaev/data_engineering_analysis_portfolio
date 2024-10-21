@@ -13,6 +13,8 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [RFM Analysis](#RFM-Analysis)
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
   + [Email Marketing Campaign Analysis](#Email-Marketing-Campaign-Analysis)
+  + [Uber Data Engineering GCP Project](#Uber-Data-Engineering-GCP-Project)
+
 
 ## Portfolio Projects
 In this section I list data engineering & analytics projects briefly describing the technology stack used to solve cases.
@@ -49,7 +51,8 @@ In this section I list data engineering & analytics projects briefly describing 
 ![screen1](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing.png)
 ![screen2](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing_1.png)
 
-
+### Uber Data Engineering GCP Project
+**Code:** [Uber Data Engineering GCP Project](https://github.com/umidmirzaev/uber-etl)
 
 
 
