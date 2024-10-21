@@ -42,14 +42,13 @@ In this section I list data engineering & analytics projects briefly describing 
 
 ### Email Marketing Campaign Analysis
 **Link:** [Email Marketing Campaign Analysis](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis)   
-**Description:** This project evaluates the effectiveness of an email marketing campaign for a local business. It focuses on key metrics such as delivery rates, open rates, click-through rates (CTR), and user engagement trends over time. The analysis aims to identify areas for improvement and optimize future email marketing strategies.   
+**Description:** This project focuses on analyzing the performance of email marketing campaigns for a local business. The goal was to develop a comprehensive dashboard in Power BI to help the marketing team and executives monitor campaign effectiveness and user engagement.    
 **Skills:** Data cleaning, analysis, data visualization, performance tracking.  
 **Technology:** Power BI, DAX.  
 **Results:** Analysis of user activity, email trends, and customer segments over time.  
 
+![screen1](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis/blob/main/Overview.png)
 
-![screen1](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing.png)
-![screen2](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/email_marketing_1.png)
 
 ### Uber Data Engineering GCP Project
 **Code:** [Uber Data Engineering GCP Project](https://github.com/umidmirzaev/uber-etl)
