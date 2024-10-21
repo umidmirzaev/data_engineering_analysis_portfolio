@@ -41,7 +41,7 @@ In this section I list data engineering & analytics projects briefly describing 
 **Results:** Review of the marketing campaign performance across various states.
 
 ### Email Marketing Campaign Analysis
-**Link:** [Email Marketing Campaign Analysis](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis)
+**Link:** [Email Marketing Campaign Analysis](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis)   
 **Description:** This project evaluates the effectiveness of an email marketing campaign for a local business. It focuses on key metrics such as delivery rates, open rates, click-through rates (CTR), and user engagement trends over time. The analysis aims to identify areas for improvement and optimize future email marketing strategies.   
 **Skills:** Data cleaning, analysis, data visualization, performance tracking.  
 **Technology:** Power BI, DAX.  
