@@ -36,10 +36,10 @@ In this section I list data engineering & analytics projects briefly describing 
 
 ### Marketing Data Analysis
 **Code:** [Marketing Data Analysis](https://github.com/umidmirzaev/data_analysis_portfolio/blob/main/Marketing%20Data%20Analysis.ipynb)  
-**Description:** The main dataset contains 19360 records related to synthetic marketing data that simulates campaign performance across various states. The dataset records key metrics such as total touchpoints, state-specific responses (both web and phone), and conversion outcomes over a defined time period. Additional information on each campaign includes costs and identifiers, offering insights into marketing efforts and resource allocation.  
-**Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
+**Description:** The main dataset contains 19360 records related to synthetic marketing data that simulates campaign performance across various states. The dataset records key metrics such as total touchpoints, state-specific responses (both web and phone), and conversion outcomes over a defined time period. Additional information on each campaign includes costs and identifiers, offering insights into marketing efforts and resource allocation.     
+**Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.   
 **Technology:** Python, Pandas, Seaborn, Matplotlib.  
-**Results:** Review of the marketing campaign performance across various states.
+**Results:** Review of the marketing campaign performance across various states. 
 
 ### Logistics Operations and Task Management
 **Link:** [Logistics Operations and Task Management](https://github.com/umidmirzaev/logistics-operations)  
