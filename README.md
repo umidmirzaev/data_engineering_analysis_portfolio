@@ -12,7 +12,7 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [Cohort Analysis](#Cohort-Analysis)
   + [RFM Analysis](#RFM-Analysis)
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
-  + [Logistics Operations and Task Management](#[Logistics-Operations-and-Task-Management]
+  + [Logistics Operations and Task Management](#Logistics-Operations-and-Task-Management)
   + [Email Marketing Campaign Analysis](#Email-Marketing-Campaign-Analysis)
   + [Uber Data Engineering GCP Project](#Uber-Data-Engineering-GCP-Project)
 
