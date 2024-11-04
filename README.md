@@ -43,10 +43,10 @@ In this section I list data engineering & analytics projects briefly describing 
 
 ### Logistics Operations and Task Management
 **Link:** [Logistics Operations and Task Management](https://github.com/umidmirzaev/logistics-operations)  
-**Description:** A Power BI project focused on transforming and analyzing logistics operations data to improve task management and operational efficiency. The project involved loading raw logistics data into Power BI, applying extensive data transformations with Power Query, and creating a clear, structured table for analysis. The goal was to clean the dataset, structure key information fields, and produce insights on task durations and logistics performance. 
-**Skills:** Data Cleaning, Data Transformation, 
-**Technology:** Power Query, M Language (Power Query Formula Language), Power BI
-**Results:**  Successfully loaded and transformed logistics operations data, filtering out irrelevant tasks and restructuring the table for clarity. Developed a detailed, easy-to-navigate table that allows logistics teams to track task statuses, durations, and other essential metrics
+**Description:** A Power BI project focused on transforming and analyzing logistics operations data to improve task management and operational efficiency. The project involved loading raw logistics data into Power BI, applying extensive data transformations with Power Query, and creating a clear, structured table for analysis. The goal was to clean the dataset, structure key information fields, and produce insights on task durations and logistics performance.   
+**Skills:** Data Cleaning, Data Transformation.  
+**Technology:** Power Query, M Language (Power Query Formula Language), Power BI.  
+**Results:**  Successfully loaded and transformed logistics operations data, filtering out irrelevant tasks and restructuring the table for clarity. Developed a detailed, easy-to-navigate table that allows logistics teams to track task statuses, durations, and other essential metrics.  
 
 ### Email Marketing Campaign Analysis
 **Link:** [Email Marketing Campaign Analysis](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis)   
