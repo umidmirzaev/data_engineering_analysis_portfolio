@@ -12,6 +12,7 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [Cohort Analysis](#Cohort-Analysis)
   + [RFM Analysis](#RFM-Analysis)
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
+  + [Logistics Operations and Task Management](#Logistics-Operations-Task-Management)
   + [Email Marketing Campaign Analysis](#Email-Marketing-Campaign-Analysis)
   + [Uber Data Engineering GCP Project](#Uber-Data-Engineering-GCP-Project)
 
@@ -22,14 +23,14 @@ In this section I list data engineering & analytics projects briefly describing 
 ### Cohort Analysis
 **Code:** [Cohort Analysis](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/Cohort%20Analysis.ipynb)  
 **Description:** This project analyzes transactional data from a homebrewing and craft brewing supply store using cohort analysis. The goal is to track and understand user behavior over time, identifying trends and patterns.  
-**Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.  
+**Skills:** Data Cleaning, Data Analysis, Hypothesis Testing, Sata Visualization.  
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 **Results:** Cohort retention and revenue trends were found and analyzed.
 
 ### RFM Analysis
 **Code:** [RFM Analysis](https://github.com/umidmirzaev/data_engineering_analysis_portfolio/blob/main/RFM%20Analysis.ipynb)  
 **Description:** Applying RFM (Recency, Frequency, Monetary) analysis to segment and identify customer groups for a local retail company, exploring differences to drive data-informed marketing strategies.   
-**Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.   
+**Skills:** Data Cleaning, Data Analysis, Hypothesis Testing, Sata Visualization.  
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 **Results:** Segmented and identified customers into high-value (38%), growth-potential (40%), and at-risk (19%) groups. Recommendations include targeted rewards, promotions, and re-engagement strategies.  
 
@@ -40,10 +41,17 @@ In this section I list data engineering & analytics projects briefly describing 
 **Technology:** Python, Pandas, Seaborn, Matplotlib.  
 **Results:** Review of the marketing campaign performance across various states.
 
+### Logistics Operations and Task Management
+**Link:** [Logistics Operations and Task Management](https://github.com/umidmirzaev/logistics-operations)  
+**Description:** A Power BI project focused on transforming and analyzing logistics operations data to improve task management and operational efficiency. The project involved loading raw logistics data into Power BI, applying extensive data transformations with Power Query, and creating a clear, structured table for analysis. The goal was to clean the dataset, structure key information fields, and produce insights on task durations and logistics performance. 
+**Skills:** Data Cleaning, Data Transformation, 
+**Technology:** Power Query, M Language (Power Query Formula Language), Power BI
+**Results:**  Successfully loaded and transformed logistics operations data, filtering out irrelevant tasks and restructuring the table for clarity. Developed a detailed, easy-to-navigate table that allows logistics teams to track task statuses, durations, and other essential metrics
+
 ### Email Marketing Campaign Analysis
 **Link:** [Email Marketing Campaign Analysis](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis)   
 **Description:** This project focuses on analyzing the performance of email marketing campaigns for a local business. The goal was to develop a comprehensive dashboard in Power BI to help the marketing team and executives monitor campaign effectiveness and user engagement.    
-**Skills:** Data cleaning, analysis, data visualization, performance tracking.  
+**Skills:** Data Cleaning, Data Analysis, Data Visualization, Performance Tracking.  
 **Technology:** Power BI, DAX.  
 **Results:** Analysis of user activity, email trends, and customer segments over time.  
 
@@ -52,16 +60,6 @@ In this section I list data engineering & analytics projects briefly describing 
 
 ### Uber Data Engineering GCP Project
 **Code:** [Uber Data Engineering GCP Project](https://github.com/umidmirzaev/uber-etl)
-
-
-
-
-
-
-
-
-
-
 
 
 
