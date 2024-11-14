@@ -14,6 +14,7 @@ This repository serves as a platform to showcase my skills, share my data analys
   + [Marketing Data Analysis](#Marketing-Data-Analysis)
   + [Logistics Operations and Task Management](#Logistics-Operations-and-Task-Management)
   + [Email Marketing Campaign Analysis](#Email-Marketing-Campaign-Analysis)
+  + [Consulting Services Analysis](#Consulting-Services-Analysis)
   + [Uber Data Engineering GCP Project](#Uber-Data-Engineering-GCP-Project)
 
 
@@ -57,6 +58,14 @@ In this section I list data engineering & analytics projects briefly describing 
 
 ![screen1](https://github.com/umidmirzaev/Email-Marketing-Campaign-Analysis/blob/main/Overview.png)
 
+### Consulting Services Analysis
+**Link:** [Consulting Services Analysis](https://github.com/umidmirzaev/Consulting-Services--Analysis)  
+**Description:** A comprehensive analysis of consulting services performance, utilizing Power BI to transform, analyze, and visualize data. This project focuses on key metrics such as total revenue, customer engagement, sales dynamics, and product profitability to provide actionable insights for business decision-makers.   
+**Skills:** Data Modeling, Data Cleaning, Data Analysis, Data Visualization, Performance Tracking.  
+**Technology:** Power BI, DAX.  
+**Results:** Created an interactive dashboard to track total revenue, average revenue per user, and product performance. Provided customer engagement metrics (open rates, click rates) to assess the impact of marketing efforts. 
+
+![screen2](https://github.com/umidmirzaev/Consulting-Services--Analysis/blob/main/Overview.png)
 
 ### Uber Data Engineering GCP Project
 **Code:** [Uber Data Engineering GCP Project](https://github.com/umidmirzaev/uber-etl)
