@@ -65,7 +65,8 @@ In this section I list data engineering & analytics projects briefly describing 
 **Technology:** Power BI, DAX.  
 **Results:** Created an interactive dashboard to track total revenue, average revenue per user, and product performance. Provided customer engagement metrics (open rates, click rates) to assess the impact of marketing efforts. 
 
-![screen2](https://github.com/umidmirzaev/Consulting-Services--Analysis/blob/main/Overview.png)
+![screen2](https://github.com/umidmirzaev/Consulting-Services--Analysis/blob/main/Main.png)
+
 
 ### Uber Data Engineering GCP Project
 **Code:** [Uber Data Engineering GCP Project](https://github.com/umidmirzaev/uber-etl)
